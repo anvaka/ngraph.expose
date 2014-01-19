@@ -1,0 +1,19 @@
+{
+  "name": "ngraph.expose",
+  "version": "0.0.0",
+  "description": "Adds getters and setters to subeset of object's properties",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "util",
+    "properties"
+  ],
+  "author": "Andrei Kashcha",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anvaka/ngraph.expose"
+  }
+}
