@@ -2,6 +2,8 @@
 
 Adds getters and setters to subeset of object's properties
 
+[![Build Status](https://travis-ci.org/anvaka/ngraph.expose.png?branch=master)](https://travis-ci.org/anvaka/ngraph.expose)
+
 # Example
 
 ``` js
