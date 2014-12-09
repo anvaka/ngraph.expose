@@ -1,6 +1,6 @@
 # ngraph.expose
 
-Adds getters and setters to subeset of object's properties
+Adds getters and setters to subset of object's properties
 
 [![Build Status](https://travis-ci.org/anvaka/ngraph.expose.png?branch=master)](https://travis-ci.org/anvaka/ngraph.expose)
 
