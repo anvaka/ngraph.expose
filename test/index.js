@@ -17,7 +17,7 @@ test('exposes all properties without filter', function (t) {
   t.end();
 });
 
-test('exposes only filtered properies whith filter', function (t) {
+test('exposes only filtered properties with filter', function (t) {
   var target = {},
       settings = { age: 42, name: 'John' };
 
@@ -40,7 +40,7 @@ test('Ignores when function is present', function (t) {
 
   expose(settings, target);
 
-  t.ok(target.name === predefinedSetter, 'name() should not be overriden');
+  t.ok(target.name === predefinedSetter, 'name() should not be overridden');
   t.end();
 });
 
