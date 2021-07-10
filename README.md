@@ -2,7 +2,7 @@
 
 Adds getters and setters to subset of object's properties
 
-[![Build Status](https://travis-ci.org/anvaka/ngraph.expose.png?branch=master)](https://travis-ci.org/anvaka/ngraph.expose)
+ [![build status](https://github.com/anvaka/ngraph.expose/actions/workflows/tests.yaml/badge.svg)](https://github.com/anvaka/ngraph.expose/actions/workflows/tests.yaml)
 
 # Example
 
